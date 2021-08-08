@@ -1,0 +1,4 @@
+Bill breakdown: 
+mouse:          ...$3 
+tip:            ...$0.5 
+total:          ...$3.50 
